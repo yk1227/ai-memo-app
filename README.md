@@ -1,4 +1,4 @@
-# 📝 메모 앱 (Memo App)
+# 📝 Awesome Memo
 
 **핸즈온 실습용 Next.js 메모 애플리케이션**
 

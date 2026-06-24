@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "supabase": {
-      "url": "https://mcp.supabase.com/mcp?project_ref=jsqpbvdyidytjryojwcr&features=docs%2Caccount%2Cdatabase%2Cdevelopment"
+      "url": "https://mcp.supabase.com/mcp?project_ref=jsqpbvdyidytjryojwcr&features=docs%2Caccount%2Cdatabase%2Cdevelopment",
       "headers": {
         "Authorization": "Bearer <psbp_aaa9178365868104cc30f27726ea57d1a36b1123>"
       }
